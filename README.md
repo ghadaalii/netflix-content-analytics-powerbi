@@ -141,3 +141,19 @@ The analysis revealed several patterns across Netflix's content catalog:
 
 ### 👥 Audience & Categories
 ![Audience & Categories](images/audience-categories.png)
+
+## 🎛️ Interactive Filtering Experience
+
+Each analytical page includes a dedicated filter panel designed around the context of that page. The filtering experience was implemented using Power BI slicers, bookmarks, and controlled visual interactions.
+
+The interface includes:
+
+- Page-specific filter selections.
+- Bookmark-based open and close behavior.
+- One-click filter reset.
+- Controlled visual interactions to preserve meaningful comparisons.
+- A consistent filter-panel design across the report.
+
+### Filter Panel Example
+
+![Interactive Filter Panel](images/executive-overview-filters.png)
