@@ -121,3 +121,23 @@ The analysis revealed several patterns across Netflix's content catalog:
 - Growth slowed after the 2019 peak, with year-over-year additions declining in both **2020 and 2021**.
 - The latest year in the dataset recorded **1,498 additions**, representing a **20.3% YoY decline**.
 - Geographic diversity expanded substantially over time, with the number of represented countries increasing significantly compared with the early years of catalog additions.
+
+## 🖥️ Dashboard Preview
+
+### 🏠 Home
+![Home](images/home.png)
+
+### 📊 Executive Overview
+![Executive Overview](images/executive-overview.png)
+
+### 🎬 Content Overview
+![Content Overview](images/content-overview.png)
+
+### 🌍 Global Insights
+![Global Insights](images/global-insights.png)
+
+### 📈 Growth & Trends
+![Growth & Trends](images/growth-trends.png)
+
+### 👥 Audience & Categories
+![Audience & Categories](images/audience-categories.png)
