@@ -157,3 +157,12 @@ The interface includes:
 ### Filter Panel Example
 
 ![Interactive Filter Panel](images/executive-overview-filters.png)
+
+## 🛠️ Tools & Technologies
+
+- **Power BI Desktop** — Dashboard development and data visualization
+- **Power Query** — Data cleaning and transformation
+- **DAX** — Measures, KPIs, time-based analysis, and dynamic calculations
+- **Data Modeling** — Star schema and relationship design
+- **Power BI Bookmarks & Slicers** — Interactive filter experience and navigation
+- **GitHub** — Project documentation and portfolio hosting
